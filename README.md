@@ -1,7 +1,5 @@
 # RECIPE-APP
-Simple Recipe ios app
-# Bus Booking Application  
-## This is Bus Booking Application Simple iOS Application
+## This is Recipe Application Simple iOS Application
 ## Used UIelements
 - UILabel
 - UITextField
