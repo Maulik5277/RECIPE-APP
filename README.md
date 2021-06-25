@@ -8,16 +8,13 @@
 - Tableview
 ## Screenshot
 ##### Page 1
-![Page 1](RECIPE-APP/page1.png)
+![Page 1](1.jpg)
 
 ##### Page 2
-![Page 2](UITemplet/page2.png)
+![Page 2](2.jpg)
 
 ##### Page 3
-![Page 3](UITemplet/page3.png)
+![Page 3](3.jpg)
 
 ##### Page 4
-![Page 4](UITemplet/page4.png)
-
-##### Page 5
-![Page 5](UITemplet/page5.png)
+![Page 4](4.jpg)
